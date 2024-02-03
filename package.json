@@ -1,7 +1,7 @@
 {
-               "name": "sithuwa-md",
-               "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Sithuwa.",
+               "name": "『 𝙼𝚁 Isuru 』",
+               "version": "『 𝙼𝚁 Isuru 』",
+               "description": "『 𝙼𝚁 Isuru 』",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
