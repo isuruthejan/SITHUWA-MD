@@ -1,8 +1,8 @@
 {
-  "name": "SITHUWA-MD",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Sithuwa Bot", "sithuwa","SITHUWA-MD","theme bot","multi device","baileys","Sithum Kalhara"],
+  "name": "『 𝙼𝚁 Isuru 』",
+  "description": "『 𝙼𝚁 Isuru 』",
+  "logo": "https://telegra.ph/file/652c318f41d812c6d598d.jpgg",
+  "keywords": ["『 𝙼𝚁 Isuru 』"],
   "success_url": "/",
   "stack": "container",
 "env": {
